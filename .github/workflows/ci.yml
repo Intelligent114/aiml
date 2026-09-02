@@ -12,9 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: actions/setup-python@v6
+      - uses: actions/setup-node@v6
         with:
-          python-version: "3.13"
-          cache: pip
-      - run: pip install -r requirements.txt
-      - run: mkdocs build --strict --site-dir site
+          node-version: "24"
+          cache: npm
+      - run: npm ci
+      - run: npm run build
