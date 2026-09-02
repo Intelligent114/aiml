@@ -19,7 +19,7 @@ const config: Config = {
       {
         docs: {routeBasePath: '/', sidebarPath: './sidebars.ts'},
         blog: false,
-        theme: {},
+        theme: {customCss: './src/css/custom.css'},
       } satisfies Preset.Options,
     ],
   ],

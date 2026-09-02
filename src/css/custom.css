@@ -1,0 +1,15 @@
+/* Infima tables size themselves to their contents by default. Keep the
+   official table appearance while allowing course tables to use the full
+   document width. */
+.markdown table {
+  display: table;
+  width: 100%;
+}
+
+/* Preserve Infima's horizontal scrolling behavior on narrow screens. */
+@media (max-width: 996px) {
+  .markdown table {
+    display: block;
+    width: 100%;
+  }
+}
