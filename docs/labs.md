@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: 实验
+hide_table_of_contents: true
 ---
 
 # 实验

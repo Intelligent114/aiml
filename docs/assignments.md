@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: 作业
+hide_table_of_contents: true
 ---
 
 # 作业
