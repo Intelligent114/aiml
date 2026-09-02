@@ -13,3 +13,87 @@
     width: 100%;
   }
 }
+
+/* Keep the standard Docusaurus footer, but present its compact link groups
+   and copyright as a horizontal utility bar on wider screens. */
+.footer {
+  --ifm-footer-padding-vertical: 1.25rem;
+}
+
+.footer .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.footer__links {
+  display: flex;
+  flex: 1 1 auto;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem 2rem;
+  margin-bottom: 0;
+}
+
+.footer__col {
+  display: flex;
+  flex: 0 1 auto;
+  align-items: center;
+  gap: 0.875rem;
+  width: auto;
+  max-width: none;
+  padding: 0;
+}
+
+.footer__title {
+  margin-bottom: 0;
+  white-space: nowrap;
+}
+
+.footer__items {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.375rem 0.875rem;
+}
+
+.footer__item {
+  margin-top: 0;
+  line-height: 1.5;
+}
+
+.footer__bottom {
+  flex: 0 0 auto;
+}
+
+.footer__copyright {
+  white-space: nowrap;
+}
+
+@media (max-width: 996px) {
+  .footer .container {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+
+  .footer__links {
+    gap: 0.75rem 1.5rem;
+  }
+
+  .footer__bottom {
+    align-self: stretch;
+    text-align: left;
+  }
+}
+
+@media (max-width: 576px) {
+  .footer__col {
+    flex-basis: 100%;
+  }
+
+  .footer__copyright {
+    white-space: normal;
+  }
+}
