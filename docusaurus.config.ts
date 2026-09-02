@@ -30,7 +30,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'AI 与机器学习基础',
+      title: '人工智能与机器学习基础',
       items: [
         {to: '/', label: '首页', position: 'left'},
         {to: '/schedule/', label: '课程安排', position: 'left'},
