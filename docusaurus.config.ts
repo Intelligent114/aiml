@@ -36,7 +36,12 @@ const config: Config = {
         {to: '/schedule/', label: '课程安排', position: 'left'},
         {to: '/assignments/', label: '作业', position: 'left'},
         {to: '/labs/', label: '实验', position: 'left'},
-        {href: 'https://oj.temaurinum.moe/', label: '在线评测', position: 'left'},
+        {
+          href: 'https://oj.temaurinum.moe/',
+          label: '在线评测',
+          position: 'left',
+          target: '_self',
+        },
         {to: '/cs229/', label: 'Stanford CS229', position: 'left'},
         {
           label: '其他课程',
@@ -64,7 +69,7 @@ const config: Config = {
         {
           title: '相关站点',
           items: [
-            {label: '在线评测', href: 'https://oj.temaurinum.moe/'},
+            {label: '在线评测', href: 'https://oj.temaurinum.moe/', target: '_self'},
             {label: '线性代数', href: 'https://la.temaurinum.moe/'},
             {label: '计算方法', href: 'https://cm.temaurinum.moe/'},
           ],
