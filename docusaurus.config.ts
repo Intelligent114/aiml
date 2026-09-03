@@ -70,8 +70,6 @@ const config: Config = {
           title: '相关站点',
           items: [
             {label: '在线评测', href: 'https://oj.temaurinum.moe/', target: '_self'},
-            {label: '线性代数', href: 'https://la.temaurinum.moe/'},
-            {label: '计算方法', href: 'https://cm.temaurinum.moe/'},
           ],
         },
       ],

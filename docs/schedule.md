@@ -8,7 +8,7 @@ import {ScheduleEntry, ScheduleMonth} from '@site/src/components/CourseCalendar'
 
 # 课程安排
 
-2026 秋 · 常规上课时间为每周五 15:55–18:20。日程采用 [Just the Class](https://github.com/kevinlin1/just-the-class) 的课程 Calendar 模块式布局。
+2026 秋 · 常规上课时间为每周五 15:55–18:20。
 
 <ScheduleMonth title="2026 年 9 月">
   <ScheduleEntry week="01" date="09 月 04 日" dateTime="2026-09-04" day="五" time="15:55–18:20" slides="待发布">正常上课</ScheduleEntry>
