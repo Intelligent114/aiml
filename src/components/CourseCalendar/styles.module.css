@@ -1,0 +1,142 @@
+/* Calendar-module presentation adapted from the MIT-licensed Just the Class
+   template: https://github.com/kevinlin1/just-the-class */
+.month {
+  margin: 2rem 0;
+}
+
+.monthTitle {
+  margin: 0 0 0.65rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.card {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  list-style: none;
+  background: var(--ifm-background-surface-color);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: var(--ifm-global-radius);
+  box-shadow:
+    0 1px 3px rgb(0 0 0 / 7%),
+    0 4px 14px rgb(0 0 0 / 5%);
+}
+
+.row {
+  display: grid;
+  grid-template-columns: minmax(8rem, 0.8fr) minmax(13rem, 1.45fr) minmax(17rem, 1.75fr);
+  align-items: center;
+  min-height: 3.25rem;
+  margin: 0;
+  padding: 0.65rem 1rem;
+  gap: 1rem;
+}
+
+.row + .row {
+  border-top: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.date {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  color: var(--ifm-color-emphasis-700);
+  font-variant-numeric: tabular-nums;
+}
+
+.date time {
+  color: var(--ifm-font-color-base);
+  font-weight: 600;
+}
+
+.date span {
+  font-size: 0.8rem;
+}
+
+.event {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+  gap: 0.65rem;
+}
+
+.eventText {
+  font-weight: 500;
+}
+
+.badge {
+  flex: 0 0 auto;
+  padding: 0.16rem 0.42rem;
+  color: #fff;
+  border-radius: 0.2rem;
+  font-size: 0.68rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.04em;
+}
+
+.badge--normal {
+  background: var(--ifm-color-primary);
+}
+
+.badge--makeup {
+  background: var(--ifm-color-warning-dark);
+}
+
+.badge--holiday {
+  background: var(--ifm-color-danger);
+}
+
+.badge--tentative {
+  background: var(--ifm-color-emphasis-600);
+}
+
+.resources {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.25rem 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+  font-size: 0.88rem;
+  font-variant-numeric: tabular-nums;
+}
+
+@media (max-width: 760px) {
+  .row {
+    grid-template-columns: minmax(7rem, 0.75fr) minmax(12rem, 1.25fr);
+  }
+
+  .resources {
+    grid-column: 2;
+    justify-content: flex-start;
+  }
+}
+
+@media (max-width: 520px) {
+  .card {
+    margin-inline: calc(-1 * var(--ifm-spacing-horizontal));
+    border-right: 0;
+    border-left: 0;
+    border-radius: 0;
+  }
+
+  .row {
+    grid-template-columns: 1fr;
+    gap: 0.45rem;
+    padding: 0.85rem var(--ifm-spacing-horizontal);
+  }
+
+  .date {
+    flex-direction: row;
+    align-items: baseline;
+    gap: 0.55rem;
+  }
+
+  .resources {
+    grid-column: 1;
+    justify-content: flex-start;
+    padding-left: 3.2rem;
+  }
+}
+
