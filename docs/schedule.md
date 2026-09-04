@@ -11,7 +11,7 @@ import {ScheduleEntry, ScheduleMonth} from '@site/src/components/CourseCalendar'
 2026 秋 · 常规上课时间为每周五 15:55–18:20。
 
 <ScheduleMonth title="2026 年 9 月">
-  <ScheduleEntry week="01" date="09 月 04 日" dateTime="2026-09-04" day="五" time="15:55–18:20" slides="待发布">正常上课</ScheduleEntry>
+  <ScheduleEntry week="01" date="09 月 04 日" dateTime="2026-09-04" day="五" time="15:55–18:20" slides={<a href="https://aiml.temaurinum.moe/assets/files/slides/Lec00-intro.pdf" download>Lecture 00：课程介绍 ↓</a>}>正常上课</ScheduleEntry>
   <ScheduleEntry week="02" date="09 月 11 日" dateTime="2026-09-11" day="五" time="15:55–18:20" slides="待发布">正常上课</ScheduleEntry>
   <ScheduleEntry week="03" date="09 月 18 日" dateTime="2026-09-18" day="五" time="15:55–18:20" slides="待发布">正常上课</ScheduleEntry>
   <ScheduleEntry week="04" date="09 月 20 日" dateTime="2026-09-20" day="日" time="15:55–18:20" status="makeup" slides="待发布">补课</ScheduleEntry>
