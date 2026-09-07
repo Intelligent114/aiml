@@ -9,7 +9,7 @@ title: 实验
 
 :::info[LAB0 已正式发布]
 
-截止时间为 **2026-09-20 23:59**。截止后仍可提交，但迟交记录会在成绩页面标记为“迟交”。
+截止时间为 **2026-09-21 06:00**。截止后仍可提交；每迟交 1 天，扣除该实验成绩的 10%。扣分由教师人工处理，OJ 只记录并标注迟交提交时间。
 
 :::
 
@@ -17,7 +17,7 @@ title: 实验
 
 | 编号 | 标题 | DDL | 入口 |
 |:---|:---|:---|:---|
-| **LAB0** | 机器学习开发环境配置 | **2026-09-20 23:59** | <a href="/assets/files/alml-public/labs/lab0.pdf" download>实验文档 ↓</a> · <a href="https://oj.temaurinum.moe/labs/lab0-environment/" target="_self">OJ</a> |
+| **LAB0** | 机器学习开发环境配置 | **2026-09-21 06:00** | <a href="/assets/files/alml-public/labs/lab0.pdf" download>实验文档 ↓</a> · <a href="https://oj.temaurinum.moe/labs/lab0-environment/" target="_self">OJ</a> |
 | LAB1 | 从线性模型到可靠评估（单人） | — | — |
 | LAB2 | 反向传播与神经网络（单人） | — | — |
 | LAB3 | 高维数据的表示、聚类与分类（单人） | — | — |
@@ -33,6 +33,6 @@ LAB0 同时提供 Windows 与 macOS 操作说明，不要求 GPU。
 
 :::note[提问与提交]
 
-实验通过 [TensorJudge](https://oj.temaurinum.moe/) 评测。接受迟交，但迟交的提交会在成绩页面标记。对环境、实验框架或 OJ 有疑问时，请先搜索并通过[课程资料仓库的 GitHub Issues](https://github.com/Intelligent114/ALML_public/issues/new/choose)提问；不要公开学号、验证码、SHA256、完整个人实现或未公开答案。
+实验通过 [TensorJudge](https://oj.temaurinum.moe/) 评测。接受迟交；每迟交 1 天扣除 10% 分数。OJ 会标注迟交提交时间，但不会自动扣分，最终扣分由教师人工处理。对环境、实验框架或 OJ 有疑问时，请先搜索并通过[课程资料仓库的 GitHub Issues](https://github.com/Intelligent114/ALML_public/issues/new/choose)提问；不要公开学号、验证码、SHA256、完整个人实现或未公开答案。
 
 :::

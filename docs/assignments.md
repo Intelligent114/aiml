@@ -9,15 +9,21 @@ title: 作业
 
 正式书面作业以人工批改为主。每次作业最多包含一道适度超过课堂范围的拓展题，题目会给出必要背景，使其仍可从本次作业的课内知识出发完成。
 
+:::info[HW0 已正式发布]
+
+截止时间为 **2026-09-21 06:00**，请提交至 [Blackboard](https://bb.ustc.edu.cn/)。截止后仍可提交；每迟交 1 天，扣除该作业成绩的 10%，由教师人工处理。
+
+:::
+
 ## 作业总览
 
-| 编号 | 标题 | 资料 |
-|:---|:---|:---|
-| HW0 | 数学基础诊断 | <a href="/assets/files/alml-public/homework/hw0.pdf" download>下载 PDF ↓</a> |
-| HW1 | 线性模型、评估与泛化 | — |
-| HW2 | 神经网络与反向传播 | — |
-| HW3 | 无监督学习与表示学习 | — |
-| HW4 | 非线性监督学习与搜索 | — |
+| 编号 | 标题 | DDL | 资料与提交 |
+|:---|:---|:---|:---|
+| **HW0** | 数学基础诊断 | **2026-09-21 06:00** | <a href="/assets/files/alml-public/homework/hw0.pdf" download>下载 PDF ↓</a> · [提交至 Blackboard](https://bb.ustc.edu.cn/) |
+| HW1 | 线性模型、评估与泛化 | — | — |
+| HW2 | 神经网络与反向传播 | — | — |
+| HW3 | 无监督学习与表示学习 | — | — |
+| HW4 | 非线性监督学习与搜索 | — | — |
 
 ## 已发布内容
 
@@ -27,6 +33,6 @@ title: 作业
 
 :::note[提问与学术诚信]
 
-对题意或符号有疑问时，请先搜索并通过[课程资料仓库的 GitHub Issues](https://github.com/Intelligent114/ALML_public/issues/new/choose)提问。请独立完成作业，不要在公开 Issue 中发布完整解答、个人信息或他人的提交。
+书面作业统一提交至 [Blackboard](https://bb.ustc.edu.cn/)。接受迟交；每迟交 1 天扣除 10% 分数，扣分由教师人工处理。对题意或符号有疑问时，请先搜索并通过[课程资料仓库的 GitHub Issues](https://github.com/Intelligent114/ALML_public/issues/new/choose)提问。请独立完成作业，不要在公开 Issue 中发布完整解答、个人信息或他人的提交。
 
 :::
