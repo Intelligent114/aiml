@@ -17,10 +17,16 @@ title: 作业
 
 ## 作业总览
 
+:::info[HW1 已正式发布]
+
+截止时间为 **2026 年 10 月 19 日 06:00（北京时间）**。将 `学号-姓名-HW1.pdf` 提交至 [Blackboard](https://bb.ustc.edu.cn/)。
+
+:::
+
 | 编号 | 标题 | DDL | 资料与提交 |
 |:---|:---|:---|:---|
 | **HW0** | 数学基础诊断 | **2026-09-21 06:00** | <a href="/assets/files/alml-public/homework/hw0.pdf" download>下载 PDF ↓</a> · [提交至 Blackboard](https://bb.ustc.edu.cn/) |
-| HW1 | 线性模型、评估与泛化 | — | — |
+| **HW1** | 线性模型、正则化与性能评估 | **2026-10-19 06:00（北京时间）** | <a href="/assets/files/alml-public/homework/hw1.pdf" download>下载 PDF ↓</a> · [学生材料](https://github.com/Intelligent114/ALML_public/tree/main/HWs/HW1) · [提交至 Blackboard](https://bb.ustc.edu.cn/) |
 | HW2 | 神经网络与反向传播 | — | — |
 | HW3 | 无监督学习与表示学习 | — | — |
 | HW4 | 非线性监督学习与搜索 | — | — |
@@ -30,6 +36,10 @@ title: 作业
 ### HW0 数学基础诊断
 
 检查线性代数、多元微积分、概率统计和基础优化知识。HW0 的作用是帮助同学发现薄弱环节并及时复习，不作为正式书面作业难度的参照。
+
+### HW1 线性模型、正则化与性能评估
+
+个人完成，预计 4–6 小时，满分 100 分。共五道大题、17 个小问，涵盖学习任务与评估方案、线性回归、正则化及性能评估。按题号作答，保留必要的推导、计算与说明，并在文末附 AI 使用或独立核验记录。
 
 :::note[提问与学术诚信]
 
