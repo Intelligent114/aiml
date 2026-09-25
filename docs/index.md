@@ -10,6 +10,12 @@ title: 课程首页
 
 ## 课程资料
 
+:::info[HW0 参考解答已发布]
+
+[下载 HW0 公开版参考解答](https://aiml.temaurinum.moe/assets/files/alml-public/homework/hw0-solution.pdf)，或前往[作业栏目](./assignments.md)查看题目与解答。解答包含完整题干和推导，供复习与核对使用。
+
+:::
+
 :::info[第一次习题课]
 
 **2026 年 9 月 25 日（周五）20:00（北京时间）**，主题为向量与矩阵的微分。[查看习题课安排并下载讲义](./tutorials.md)。
