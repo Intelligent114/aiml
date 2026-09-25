@@ -36,6 +36,7 @@ const config: Config = {
         {to: '/schedule/', label: '课程安排', position: 'left'},
         {to: '/assignments/', label: '作业', position: 'left'},
         {to: '/labs/', label: '实验', position: 'left'},
+        {to: '/tutorials/', label: '习题课', position: 'left'},
         {
           href: 'https://oj.temaurinum.moe/',
           label: '在线评测',
@@ -64,6 +65,7 @@ const config: Config = {
             {label: '课程安排', to: '/schedule/'},
             {label: '作业', to: '/assignments/'},
             {label: '实验', to: '/labs/'},
+            {label: '习题课', to: '/tutorials/'},
           ],
         },
         {

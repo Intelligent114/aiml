@@ -15,7 +15,8 @@ import {ScheduleEntry, ScheduleMonth} from '@site/src/components/CourseCalendar'
   <ScheduleEntry week="02" date="09 月 11 日" dateTime="2026-09-11" day="五" time="15:55–18:20" slides={<a href="https://aiml.temaurinum.moe/assets/files/slides/Lec02_LR_v2.pdf" download>Lecture 02：线性回归 ↓</a>}>正常上课</ScheduleEntry>
   <ScheduleEntry week="03" date="09 月 18 日" dateTime="2026-09-18" day="五" time="15:55–18:20" slides={<a href="https://aiml.temaurinum.moe/assets/files/slides/Lec03-profile.pdf" download>Lecture 03：性能评估 ↓</a>}>正常上课</ScheduleEntry>
   <ScheduleEntry week="04" date="09 月 20 日" dateTime="2026-09-20" day="日" time="15:55–18:20" status="makeup" slides={<a href="https://aiml.temaurinum.moe/assets/files/slides/Lec04-regres_regular.pdf" download>Lecture 04：回归与正则化 ↓</a>}>补课</ScheduleEntry>
-  <ScheduleEntry week="04" date="09 月 25 日" dateTime="2026-09-25" day="五" time="不上课" status="holiday">放假</ScheduleEntry>
+  <ScheduleEntry week="04" date="09 月 25 日" dateTime="2026-09-25" day="五" time="下午停课" status="holiday">常规课程停课</ScheduleEntry>
+  <ScheduleEntry week="04" date="09 月 25 日" dateTime="2026-09-25" day="五" time="20:00（北京时间）" slides={<a href="https://aiml.temaurinum.moe/assets/files/alml-public/tutorials/vector_matrix_differentials.pdf" download>第一次习题课讲义 ↓</a>}>习题课：向量与矩阵的微分</ScheduleEntry>
 </ScheduleMonth>
 
 <ScheduleMonth title="2026 年 10 月">
