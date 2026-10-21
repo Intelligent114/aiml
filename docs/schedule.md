@@ -22,7 +22,7 @@ import {ScheduleEntry, ScheduleMonth} from '@site/src/components/CourseCalendar'
 <ScheduleMonth title="2026 年 10 月">
   <ScheduleEntry week="05" date="10 月 02 日" dateTime="2026-10-02" day="五" time="不上课" status="holiday">放假</ScheduleEntry>
   <ScheduleEntry week="06" date="10 月 09 日" dateTime="2026-10-09" day="五" time="15:55–18:20" slides={<a href="https://aiml.temaurinum.moe/assets/files/slides/Lec05_LR.pdf" download>Lecture 05：逻辑回归 ↓</a>}>正常上课</ScheduleEntry>
-  <ScheduleEntry week="07" date="10 月 16 日" dateTime="2026-10-16" day="五" time="15:55–18:20" slides="待发布">正常上课</ScheduleEntry>
+  <ScheduleEntry week="07" date="10 月 16 日" dateTime="2026-10-16" day="五" time="15:55–18:20" slides={<a href="https://aiml.temaurinum.moe/assets/files/slides/Lec06-NN.pdf" download>Lecture 06：神经网络 I ↓</a>}>正常上课</ScheduleEntry>
   <ScheduleEntry week="08" date="10 月 23 日" dateTime="2026-10-23" day="五" time="15:55–18:20" slides="待发布">正常上课</ScheduleEntry>
   <ScheduleEntry week="09" date="10 月 30 日" dateTime="2026-10-30" day="五" time="15:55–18:20" slides="待发布">正常上课</ScheduleEntry>
 </ScheduleMonth>
