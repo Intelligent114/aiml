@@ -18,24 +18,6 @@ HW2 **神经网络与反向传播**和 LAB2 **神经网络如何学习不同频�
 
 :::
 
-:::info[HW0 参考解答已发布]
-
-[下载 HW0 公开版参考解答](https://aiml.temaurinum.moe/assets/files/alml-public/homework/hw0-solution.pdf)，或前往[作业栏目](./assignments.md)查看题目与解答。解答包含完整题干和推导，供复习与核对使用。
-
-:::
-
-:::info[第一次习题课]
-
-**2026 年 9 月 25 日（周五）20:00（北京时间）**，主题为向量与矩阵的微分。[查看习题课安排并下载讲义](./tutorials.md)。
-
-:::
-
-:::info[HW1 与 LAB1 已发布]
-
-[HW1 作业材料与提交说明](./assignments.md)和 [LAB1 实验文档、代码与数据](./labs.md)现已开放。两者截止时间均为 **2026 年 10 月 19 日 06:00（北京时间）**。
-
-:::
-
 - [课程安排](./schedule.md)：课程日期、Slides、补课与放假安排。
 - [作业](./assignments.md)：HW0 数学基础诊断与四次正式书面作业的内容说明。
 - [实验](./labs.md)：LAB0 环境配置、三次单人实验与多人 Final Project 的内容说明和在线评测入口。
