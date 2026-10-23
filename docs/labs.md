@@ -21,6 +21,8 @@ title: 实验
 
 实验报告上传 [Blackboard](https://bb.ustc.edu.cn/)，单个 `submission.py` 上传 [OJ 的 LAB2](https://oj.temaurinum.moe/labs/lab2-frequency-learning/)，不接收其他文件。
 
+**10 月 23 日更新：**最终性能基准调整为 `scale=0.25, lr=0.003, lam=0`，已有提交统一重评。性能分仍为 10 分，按基准与提交的汇总 RMSE 比例折算；代码 40 分、报告 50 分及 800 次更新预算不变。请使用更新后的实验文档，观察阶段的对照配置不变。
+
 :::
 
 :::info[LAB1 已正式发布]
