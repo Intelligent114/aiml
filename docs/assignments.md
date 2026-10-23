@@ -19,6 +19,12 @@ title: 作业
 
 ## 作业总览
 
+:::info[HW2 已正式发布]
+
+HW2 **神经网络与反向传播**，截止时间为 **2026 年 11 月 23 日 06:00**。<a href="/assets/files/alml-public/homework/hw2.pdf" download>下载题目 PDF</a>，将 `学号-姓名-HW2.pdf` 提交至 [Blackboard](https://bb.ustc.edu.cn/)。
+
+:::
+
 :::info[HW1 已正式发布]
 
 截止时间为 **2026 年 10 月 19 日 06:00（北京时间）**。将 `学号-姓名-HW1.pdf` 提交至 [Blackboard](https://bb.ustc.edu.cn/)。
@@ -29,7 +35,7 @@ title: 作业
 |:---|:---|:---|:---|
 | **HW0** | 数学基础诊断 | **2026-09-21 06:00** | <a href="/assets/files/alml-public/homework/hw0.pdf" download>题目 PDF ↓</a> · [参考解答 PDF](https://aiml.temaurinum.moe/assets/files/alml-public/homework/hw0-solution.pdf) · [提交至 Blackboard](https://bb.ustc.edu.cn/) |
 | **HW1** | 线性模型、正则化与性能评估 | **2026-10-19 06:00（北京时间）** | <a href="/assets/files/alml-public/homework/hw1.pdf" download>下载 PDF ↓</a> · [学生材料](https://github.com/Intelligent114/ALML_public/tree/main/HWs/HW1) · [提交至 Blackboard](https://bb.ustc.edu.cn/) |
-| HW2 | 神经网络与反向传播 | — | — |
+| **HW2** | 神经网络与反向传播 | **2026-11-23 06:00** | <a href="/assets/files/alml-public/homework/hw2.pdf" download>下载 PDF ↓</a> · [学生材料与 TeX 源文件](https://github.com/Intelligent114/ALML_public/tree/main/HWs/HW2) · [提交至 Blackboard](https://bb.ustc.edu.cn/) |
 | HW3 | 无监督学习与表示学习 | — | — |
 | HW4 | 非线性监督学习与搜索 | — | — |
 
@@ -44,6 +50,12 @@ title: 作业
 ### HW1 线性模型、正则化与性能评估
 
 个人完成，预计 4–6 小时，满分 100 分。共五道大题、17 个小问，涵盖学习任务与评估方案、线性回归、正则化及性能评估。按题号作答，保留必要的推导、计算与说明，并在文末附 AI 使用或独立核验记录。
+
+### HW2 神经网络与反向传播
+
+个人完成，预计 4–6 小时，满分 100 分。共五道大题、15 个小问，涵盖训练现象与实验判断、Softmax 与交叉熵、两层网络的矩阵反向传播、ReLU 网络的表示与零梯度，以及参数缩放对训练过程的影响。各大题独立，符号与假设以题目为准。
+
+按题号作答并保留必要的计算与推导。提交一个 PDF，命名为 `学号-姓名-HW2.pdf`，于 **2026 年 11 月 23 日 06:00** 前上传至 [Blackboard](https://bb.ustc.edu.cn/)。允许 AI 辅助，须说明使用方式，并提供至少一项独立核验记录；未使用 AI 也需给出自检。
 
 :::note[提问与学术诚信]
 
