@@ -10,6 +10,12 @@ title: 课程首页
 
 ## 课程资料
 
+:::info[LAB2 已发布]
+
+LAB2 **神经网络如何学习不同频率的信号**现已开放，截止时间为 **2026 年 11 月 23 日 06:00**。[查看实验文档、代码与数据](./labs.md)；报告提交至 [Blackboard](https://bb.ustc.edu.cn/)，单个 `submission.py` 提交至 [OJ](https://oj.temaurinum.moe/labs/lab2-frequency-learning/)。
+
+:::
+
 :::info[HW0 参考解答已发布]
 
 [下载 HW0 公开版参考解答](https://aiml.temaurinum.moe/assets/files/alml-public/homework/hw0-solution.pdf)，或前往[作业栏目](./assignments.md)查看题目与解答。解答包含完整题干和推导，供复习与核对使用。
