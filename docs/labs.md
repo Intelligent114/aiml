@@ -40,7 +40,7 @@ title: 实验
 | **LAB0** | 机器学习开发环境配置 | **2026-09-21 06:00** | <a href="/assets/files/alml-public/labs/lab0.pdf" download>实验文档 ↓</a> · <a href="https://oj.temaurinum.moe/labs/lab0-environment/" target="_self">OJ</a> |
 | **LAB1** | 线性回归与正则化（单人） | **2026-10-19 06:00（北京时间）** | <a href="/assets/files/alml-public/labs/lab1.pdf" download>实验文档 ↓</a> · [代码与数据](https://github.com/Intelligent114/ALML_public/tree/main/LABs/LAB1) · [Blackboard](https://bb.ustc.edu.cn/) · [OJ](https://oj.temaurinum.moe/) |
 | **LAB2** | 神经网络如何学习不同频率的信号（单人） | **2026-11-23 06:00** | <a href="/assets/files/alml-public/labs/lab2.pdf" download>实验文档 ↓</a> · [代码与数据](https://github.com/Intelligent114/ALML_public/tree/main/LABs/LAB2) · [Blackboard](https://bb.ustc.edu.cn/) · [OJ](https://oj.temaurinum.moe/labs/lab2-frequency-learning/) |
-| LAB3 | 高维数据的表示、聚类与分类（单人） | — | — |
+| **LAB3** | 少量标签能否跨设备识别？（单人） | **2026-12-21 06:00** | <a href="/assets/files/alml-public/labs/lab3.pdf" download>实验文档 ↓</a> · [代码与公开数据](https://github.com/Intelligent114/ALML_public/tree/main/LABs/LAB3) · [Blackboard](https://bb.ustc.edu.cn/) · [OJ](https://oj.temaurinum.moe/labs/lab3-cross-device-recognition/) |
 | LAB4 | 搜索与强化学习博弈智能体（多人 Final Project） | — | — |
 
 ## 已发布内容
@@ -66,6 +66,15 @@ LAB0 同时提供 Windows 与 macOS 操作说明，不要求 GPU。
 - **报告 50 分**：将 `学号-姓名-LAB2.pdf` 上传至 [Blackboard](https://bb.ustc.edu.cn/)。
 - **代码 40 分、最终性能 10 分**：仅将 `submission.py` 上传至 [OJ 的 LAB2](https://oj.temaurinum.moe/labs/lab2-frequency-learning/)。最终配置写入 `get_config()`，OJ 使用该配置统一重新训练并评测。
 - 报告与代码截止时间均为 **2026 年 11 月 23 日 06:00**。不接收模型、结果目录、压缩包或其他代码；完整步骤见[实验运行说明](https://github.com/Intelligent114/ALML_public/blob/main/LABs/LAB2/README.md)。
+
+### LAB3 少量标签能否跨设备识别？ {/* #lab3 */}
+
+利用两台设备对同一物体的配对观测和少量训练标签，比较不同表示与分类器在新设备上的表现。打乱配对再做一次对照，检验模型是否用到了配对信息。先阅读<a href="/assets/files/alml-public/labs/lab3.pdf" download>实验 PDF</a>，从[学生仓库](https://github.com/Intelligent114/ALML_public/tree/main/LABs/LAB3)获取代码、环境文件和六份公开数据。
+
+两项提交均于 **2026 年 12 月 21 日 06:00** 截止。
+
+- **报告 50 分**。将 `学号-姓名-LAB3.pdf` 提交至 [Blackboard](https://bb.ustc.edu.cn/)。
+- **代码 30 分、跨设备性能 20 分**。只提交一个 `submission.py` 至 [OJ 的 LAB3](https://oj.temaurinum.moe/labs/lab3-cross-device-recognition/)。
 
 :::note[提问与提交]
 

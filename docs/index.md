@@ -10,6 +10,14 @@ title: 课程首页
 
 ## 课程资料
 
+:::info[HW3 与 LAB3 已发布]
+
+[HW3《无监督表示、分类几何与模型复杂度》](./assignments.md#hw3)和 [LAB3《少量标签能否跨设备识别？》](./labs.md#lab3)的截止时间均为 **2026 年 12 月 21 日 06:00**。
+
+作业 PDF 和实验报告 PDF 分别提交至 [Blackboard](https://bb.ustc.edu.cn/)。实验代码只提交一个 `submission.py`，上传至 [OJ 的 LAB3](https://oj.temaurinum.moe/labs/lab3-cross-device-recognition/)。
+
+:::
+
 :::info[HW2 与 LAB2 已发布]
 
 HW2 **神经网络与反向传播**和 LAB2 **神经网络如何学习不同频率的信号**现已开放，截止时间均为 **2026 年 11 月 23 日 06:00**。
