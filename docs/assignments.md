@@ -34,7 +34,7 @@ HW2 **神经网络与反向传播**，截止时间为 **2026 年 11 月 23 日 0
 | 编号 | 标题 | DDL | 资料与提交 |
 |:---|:---|:---|:---|
 | **HW0** | 数学基础诊断 | **2026-09-21 06:00** | <a href="/assets/files/alml-public/homework/hw0.pdf" download>题目 PDF ↓</a> · [参考解答 PDF](https://aiml.temaurinum.moe/assets/files/alml-public/homework/hw0-solution.pdf) · [提交至 Blackboard](https://bb.ustc.edu.cn/) |
-| **HW1** | 线性模型、正则化与性能评估 | **2026-10-19 06:00（北京时间）** | <a href="/assets/files/alml-public/homework/hw1.pdf" download>下载 PDF ↓</a> · [学生材料](https://github.com/Intelligent114/ALML_public/tree/main/HWs/HW1) · [提交至 Blackboard](https://bb.ustc.edu.cn/) |
+| **HW1** | 线性模型、正则化与性能评估 | **2026-10-19 06:00（北京时间）** | <a href="/assets/files/alml-public/homework/hw1.pdf" download>题目 PDF ↓</a> · <a href="/assets/files/alml-public/homework/hw1-solution.pdf" download>参考解答 PDF ↓</a> · [学生材料](https://github.com/Intelligent114/ALML_public/tree/main/HWs/HW1) · [提交至 Blackboard](https://bb.ustc.edu.cn/) |
 | **HW2** | 神经网络与反向传播 | **2026-11-23 06:00** | <a href="/assets/files/alml-public/homework/hw2.pdf" download>下载 PDF ↓</a> · [学生材料与 TeX 源文件](https://github.com/Intelligent114/ALML_public/tree/main/HWs/HW2) · [提交至 Blackboard](https://bb.ustc.edu.cn/) |
 | **HW3** | 无监督表示、分类几何与模型复杂度 | **2026-12-21 06:00** | <a href="/assets/files/alml-public/homework/hw3.pdf" download>题目 PDF ↓</a> · [学生材料与 TeX 源文件](https://github.com/Intelligent114/ALML_public/tree/main/HWs/HW3) · [提交至 Blackboard](https://bb.ustc.edu.cn/) |
 | HW4 | 非线性监督学习与搜索 | — | — |

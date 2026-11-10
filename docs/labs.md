@@ -38,7 +38,7 @@ title: 实验
 | 编号 | 标题 | DDL | 入口 |
 |:---|:---|:---|:---|
 | **LAB0** | 机器学习开发环境配置 | **2026-09-21 06:00** | <a href="/assets/files/alml-public/labs/lab0.pdf" download>实验文档 ↓</a> · <a href="https://oj.temaurinum.moe/labs/lab0-environment/" target="_self">OJ</a> |
-| **LAB1** | 线性回归与正则化（单人） | **2026-10-19 06:00（北京时间）** | <a href="/assets/files/alml-public/labs/lab1.pdf" download>实验文档 ↓</a> · [代码与数据](https://github.com/Intelligent114/ALML_public/tree/main/LABs/LAB1) · [Blackboard](https://bb.ustc.edu.cn/) · [OJ](https://oj.temaurinum.moe/) |
+| **LAB1** | 线性回归与正则化（单人） | **2026-10-19 06:00（北京时间）** | <a href="/assets/files/alml-public/labs/lab1.pdf" download>实验文档 ↓</a> · [代码与数据](https://github.com/Intelligent114/ALML_public/tree/main/LABs/LAB1) · <a href="/assets/files/alml-public/labs/lab1/submission.py" download>参考 submission.py ↓</a> · [Blackboard](https://bb.ustc.edu.cn/) · [OJ](https://oj.temaurinum.moe/) |
 | **LAB2** | 神经网络如何学习不同频率的信号（单人） | **2026-11-23 06:00** | <a href="/assets/files/alml-public/labs/lab2.pdf" download>实验文档 ↓</a> · [代码与数据](https://github.com/Intelligent114/ALML_public/tree/main/LABs/LAB2) · [Blackboard](https://bb.ustc.edu.cn/) · [OJ](https://oj.temaurinum.moe/labs/lab2-frequency-learning/) |
 | **LAB3** | 少量标签能否跨设备识别？（单人） | **2026-12-21 06:00** | <a href="/assets/files/alml-public/labs/lab3.pdf" download>实验文档 ↓</a> · [代码与公开数据](https://github.com/Intelligent114/ALML_public/tree/main/LABs/LAB3) · [Blackboard](https://bb.ustc.edu.cn/) · [OJ](https://oj.temaurinum.moe/labs/lab3-cross-device-recognition/) |
 | LAB4 | 搜索与强化学习博弈智能体（多人 Final Project） | — | — |

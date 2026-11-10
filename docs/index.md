@@ -10,6 +10,8 @@ title: 课程首页
 
 ## 课程资料
 
+**11 月 10 日更新**　<a href="/assets/files/slides/Lec08_cluster.pdf" download>第 8 讲《聚类》课件</a> · <a href="/assets/files/alml-public/homework/hw1-solution.pdf" download>HW1 参考解答</a> · <a href="/assets/files/alml-public/labs/lab1/submission.py" download>LAB1 参考 submission.py</a>
+
 :::info[HW3 与 LAB3 已发布]
 
 [HW3《无监督表示、分类几何与模型复杂度》](./assignments.md#hw3)和 [LAB3《少量标签能否跨设备识别？》](./labs.md#lab3)的截止时间均为 **2026 年 12 月 21 日 06:00**。
